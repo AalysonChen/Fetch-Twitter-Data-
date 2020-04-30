@@ -1,3 +1,5 @@
-# Fetch-Twitter-Data-
+# Fetched Twitter Data using Twitter API
 
-Fetch Twitter Data from three cruelty-free and vegan makeup brands
+Topic: Fetch Twitter Data from three cruelty-free and vegan makeup brands
+
+Target brands: Urban Decay, Tarte Cosmetics, Glossier
